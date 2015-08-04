@@ -59,3 +59,16 @@ nav ul li:hover{
 	background: white;
 	color:black;
 }
+
+img{
+	width:150px;
+	height:150px;
+	margin:20px;
+
+
+}
+
+#images{
+	margin-left:110px;
+	margin-top:20px;
+}
